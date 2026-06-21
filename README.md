@@ -1,8 +1,6 @@
 # Hi, I'm Tim
 
-Technical PM with an engineering background. Six years shipping on-chain consumer products as both founder and PM: NFTs, developer platforms, and on-chain games. Outside of work I'm always building. Hackathon projects, tools to fix problems I keep running into myself, anything that keeps me close to the code.
-
-Engineering background, five years writing software professionally before pivoting into product. BASc in Computer Engineering with a Minor in Commerce from UBC. 
+Technical PM with an engineering background. Six years shipping on-chain consumer products as both founder and PM: NFTs, developer platforms, and on-chain games. Outside of work, I'm always building. Hackathon projects, tools to fix problems I keep running into myself, anything that keeps me close to the code.
 
 [LinkedIn](https://linkedin.com/in/timnan91)
 
