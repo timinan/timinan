@@ -9,14 +9,14 @@ Technical PM with an engineering background. Six years shipping on-chain consume
 ### [connectyall](https://github.com/timinan/connectyall)
 Phone-first PWA for creating instant in-person connections using voice. Tap, talk about someone you just met, and get back a shareable connection card in a few seconds. Live at [connectyall.vercel.app](https://connectyall.vercel.app).
 
+### [Meowcert](https://github.com/timinan/meowcert)
+A Reddit-native rhythm game where every post is a stage and your cats are the headliners. Built on Devvit + Phaser for the Reddit Games with a Hook hackathon.
+
 ### [brand-workshop](https://github.com/timinan/brand-workshop)
 Multi-agent demo: one sentence in, a full brand kit out. Next.js with SSE for live streaming, and swappable LLM, image, and search adapters so you can point it at any provider. Built to explore how an agent orchestration layer feels when the outputs are visual.
 
 ### [NewsAggro](https://github.com/timinan/NewsAggro)
 Five agents (curator, summarizer, three personas, editor) produce a daily Markdown brief. Python plus the OpenAI SDK pointed at Gemini, so the architecture stays provider-agnostic.
-
-### [pspspsgame](https://github.com/timinan/pspspsgame)
-Cozy async-social cat game for Reddit. Phaser plus Devvit. Built for the Reddit Games with a Hook hackathon.
 
 ### [RogueSnake](https://github.com/timinan/RogueSnake)
 Snake roguelike prototype. A programmable combo chain that happens to be a snake. Closer to a deckbuilder than to Nokia.
